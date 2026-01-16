@@ -35,6 +35,17 @@
             Console.WriteLine("28. I enjoy my job but I am looking for a change");
             Console.WriteLine("29. I have worked 10 years in textile printing");
             Console.WriteLine("30. This is why I am going to college to learn a new skill");
+            Console.WriteLine("31. I have not been in a school since 2014");
+            Console.WriteLine("32. My highest education is a highschool deploma");
+            Console.WriteLine("33. I am working towards my associates in Information technology");
+            Console.WriteLine("34. I have completed my front end certification");
+            Console.WriteLine("35. I have learned html, css, and javascript");
+            Console.WriteLine("36. C# is my first back end web development class");
+            Console.WriteLine("37. I am glad I took javascript before this class");
+            Console.WriteLine("38. Programming has been interesting to me so far");
+            Console.WriteLine("39. I am considering going into a bachelors program");
+            Console.WriteLine("40. In my bachelors I want to persue Computer Science");
+
 
 
         }
