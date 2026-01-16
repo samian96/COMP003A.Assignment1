@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("100 things about me");
+            Console.WriteLine("1. My name is Sam");
+            Console.WriteLine("2. I live in Lemoore Ca");
+            Console.WriteLine("3. I am 29 years of age");
+            Console.WriteLine("4. Darkwave is one of my favorite genres of music");
+            Console.WriteLine("5. Paradox Obscur is one of my favorite bands ");
+            Console.WriteLine("6. I am in two band projects");
+            Console.WriteLine("7. One band is called Bad Fortune HC");
+            Console.WriteLine("8. The other band is called Shotguns Hold Shells");
+            Console.WriteLine("9. I am the bass playaer in these band projects");
+            Console.WriteLine("10. Playing bass is a hobby of mine");
         }
     }
 }
