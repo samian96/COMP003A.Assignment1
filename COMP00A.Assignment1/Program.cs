@@ -25,6 +25,17 @@
             Console.WriteLine("18. Birds are high maintanence pets");
             Console.WriteLine("19. They require a lot of activities");
             Console.WriteLine("20. Their favorite fruit is apples");
+            Console.WriteLine("21. I work in Armona Ca");
+            Console.WriteLine("22. I am a graphic designer");
+            Console.WriteLine("23. I work with textile printing");
+            Console.WriteLine("24. My main skill is screen printing");
+            Console.WriteLine("25. We use a manual press");
+            Console.WriteLine("26. I am also trained in Embroidery");
+            Console.WriteLine("27. I do not know how to work with digitization for embroidery");
+            Console.WriteLine("28. I enjoy my job but I am looking for a change");
+            Console.WriteLine("29. I have worked 10 years in textile printing");
+            Console.WriteLine("30. This is why I am going to college to learn a new skill");
+
 
         }
     }
