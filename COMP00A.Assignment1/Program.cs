@@ -95,7 +95,16 @@
             Console.WriteLine("88. I will say the navigation on open source programs can be tough");
             Console.WriteLine("89. My current computer is a mini itx build");
             Console.WriteLine("90. My roommate helped me build this computer");
-
+            Console.WriteLine("91. I plan to build a new computer in the future");
+            Console.WriteLine("92. Main reason my brother is giving me his old 4090 graphics card");
+            Console.WriteLine("93. 4090 might be overkill for what I use my computer for");
+            Console.WriteLine("94. I am interested in learning more about the parts in a computer");
+            Console.WriteLine("95. My current understanding is very minimal");
+            Console.WriteLine("96. Winter is my favorite time of year");
+            Console.WriteLine("97. The snow is one thing I miss but also do not miss about the east coast");
+            Console.WriteLine("98. The fog is my least favorite weather condition");
+            Console.WriteLine("99. This is the 99th consolewriteline I have written");
+            Console.WriteLine("100. I am excited to learn more about how C# operates");
 
 
         }
