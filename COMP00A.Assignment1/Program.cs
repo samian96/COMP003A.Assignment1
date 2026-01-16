@@ -45,6 +45,16 @@
             Console.WriteLine("38. Programming has been interesting to me so far");
             Console.WriteLine("39. I am considering going into a bachelors program");
             Console.WriteLine("40. In my bachelors I want to persue Computer Science");
+            Console.WriteLine("41. If I go for my bachelors I am excited to learn other programming languages");
+            Console.WriteLine("42. One of my brothers works in cybersecurity");
+            Console.WriteLine("43. One of my cousins worked as a game developer");
+            Console.WriteLine("44. My cousin worked on Street fighter 5 for capcom");
+            Console.WriteLine("45. My brother is in his masters program for cyber security");
+            Console.WriteLine("46. My blood brother is self taught in programming");
+            Console.WriteLine("47. My brother does not want a job in programming");
+            Console.WriteLine("48. His reasoning being it would no longer be fun if it was a job");
+            Console.WriteLine("49. Both of my brothers inspire me to keep on working through college");
+            Console.WriteLine("50. Other major I am interested in is a Math Major");
 
 
 
