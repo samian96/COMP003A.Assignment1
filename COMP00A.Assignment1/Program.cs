@@ -55,6 +55,16 @@
             Console.WriteLine("48. His reasoning being it would no longer be fun if it was a job");
             Console.WriteLine("49. Both of my brothers inspire me to keep on working through college");
             Console.WriteLine("50. Other major I am interested in is a Math Major");
+            Console.WriteLine("51. Math has not been my strongest subject");
+            Console.WriteLine("52. It would be a personal achievemnt to learn math");
+            Console.WriteLine("53. I do have 4 math classes I have to take");
+            Console.WriteLine("54. The classes are required for the bachelors program");
+            Console.WriteLine("55. I am determined to pass these classes");
+            Console.WriteLine("56. I am most nervous for calculus");
+            Console.WriteLine("57. My understanding of math is only basic multiplication ");
+            Console.WriteLine("58. I am excited to learn during my academic career at Lemoore College");
+            Console.WriteLine("59. As well as which ever university I am able to get into");
+            Console.WriteLine("60. One of my hobbies is motorcycle riding");
 
 
 
