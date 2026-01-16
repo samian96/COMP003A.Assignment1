@@ -75,6 +75,16 @@
             Console.WriteLine("68. Another board game would be The night cage");
             Console.WriteLine("69. The night cage is a team game to escape a labrynth");
             Console.WriteLine("70. Lately we have gotten into table top rpgs");
+            Console.WriteLine("71. Dungeons and dragons is a table top rpg");
+            Console.WriteLine("72. We have been playing one called mothership");
+            Console.WriteLine("73. Mothership is a space horror themed game");
+            Console.WriteLine("74. It is very challanging but fun to play with friends");
+            Console.WriteLine("75. Lately I have taken up reading as a hobby");
+            Console.WriteLine("76. One of my favorite books is Dantes Inferno");
+            Console.WriteLine("77. I would like to read the other books in his divine comedy");
+            Console.WriteLine("78. Graphic novels are also something I enjoy reading");
+            Console.WriteLine("79. I am currently reading through LoveSick");
+            Console.WriteLine("80. A hobby I have gotten into with friends is playing beyblade");
 
 
 
