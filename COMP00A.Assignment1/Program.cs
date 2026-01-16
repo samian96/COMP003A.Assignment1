@@ -65,6 +65,16 @@
             Console.WriteLine("58. I am excited to learn during my academic career at Lemoore College");
             Console.WriteLine("59. As well as which ever university I am able to get into");
             Console.WriteLine("60. One of my hobbies is motorcycle riding");
+            Console.WriteLine("61. My motorcycle is a suzuki boulevard s40");
+            Console.WriteLine("62. Currently my bike is down due to electrical");
+            Console.WriteLine("63. The headlamp is not working, due to faulty line");
+            Console.WriteLine("64. Finding the problem is the hard part");
+            Console.WriteLine("65. Another hobby would be board games");
+            Console.WriteLine("66. My roommates and I play Root a lot");
+            Console.WriteLine("67. Root is kind of like the game of risk");
+            Console.WriteLine("68. Another board game would be The night cage");
+            Console.WriteLine("69. The night cage is a team game to escape a labrynth");
+            Console.WriteLine("70. Lately we have gotten into table top rpgs");
 
 
 
