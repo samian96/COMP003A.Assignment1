@@ -85,6 +85,16 @@
             Console.WriteLine("78. Graphic novels are also something I enjoy reading");
             Console.WriteLine("79. I am currently reading through LoveSick");
             Console.WriteLine("80. A hobby I have gotten into with friends is playing beyblade");
+            Console.WriteLine("81. Beyblade cameout when I was a kid and we recently got into the new generation");
+            Console.WriteLine("82. It is surprisingly fun still to play and collect");
+            Console.WriteLine("83. Fun fact, My birds are on my hands as I work through this assignment");
+            Console.WriteLine("84. Coming up with 100 things about me is pretty hard but almost through it");
+            Console.WriteLine("85. Sometimes in my freetime I use Inkscape to work on side projects");
+            Console.WriteLine("86. It is a good open source program for vector artwork");
+            Console.WriteLine("87. Gimp is also a good open source photo editor");
+            Console.WriteLine("88. I will say the navigation on open source programs can be tough");
+            Console.WriteLine("89. My current computer is a mini itx build");
+            Console.WriteLine("90. My roommate helped me build this computer");
 
 
 
